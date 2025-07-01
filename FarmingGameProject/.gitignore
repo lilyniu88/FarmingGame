@@ -1,0 +1,38 @@
+# Godot-specific folders
+.import/
+.export/
+.godot/
+
+# Godot cache files
+.godot/editor/filesystem_cache*
+.godot/editor/editor_settings-*
+
+# OS / IDE / Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (Rider, CLion, etc.)
+.idea/
+
+# Backup files
+*.tmp
+*.bak
+*.swp
+
+# Build output (optional)
+bin/
+build/
+export/
+
+# Python venv (if used)
+venv/
+.env/
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
