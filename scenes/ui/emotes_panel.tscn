@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://b56ndbaepov2v"]
+
+[ext_resource type="Theme" uid="uid://iob6lua1ybid" path="res://scenes/ui/game_ui_theme.tres" id="1_u07v1"]
+
+[node name="EmotesPanel" type="Panel"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1_u07v1")

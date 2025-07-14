@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hkyncneekvb6"
-path="res://.godot/imported/Triangle Mouse icon 1.png-bd8e49b71c64e7e5ba9777cf4ef3f8bf.ctex"
+path="res://.godot/imported/mouse_icon.png-3447e29b9ce84e5257b4e0ef2f7add82.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/game/ui/Sprite sheets/Mouse sprites/Triangle Mouse icon 1.png"
-dest_files=["res://.godot/imported/Triangle Mouse icon 1.png-bd8e49b71c64e7e5ba9777cf4ef3f8bf.ctex"]
+source_file="res://assets/game/ui/used/mouse_icon.png"
+dest_files=["res://.godot/imported/mouse_icon.png-3447e29b9ce84e5257b4e0ef2f7add82.ctex"]
 
 [params]
 

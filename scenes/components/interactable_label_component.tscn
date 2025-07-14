@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://bbi2mk0wlippj"]
 
-[ext_resource type="Texture2D" uid="uid://bxaowxoqyyjp5" path="res://assets/game/ui/Sprite sheets/basic_ui_sprites.png" id="1_am6vt"]
+[ext_resource type="Texture2D" uid="uid://bxaowxoqyyjp5" path="res://assets/game/ui/used/basic_ui_sprites.png" id="1_am6vt"]
 [ext_resource type="FontFile" uid="uid://cxyj580jgoqho" path="res://assets/game/ui/fonts/pixelFont-7-8x14-sproutLands.ttf" id="2_kjian"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_17df2"]
