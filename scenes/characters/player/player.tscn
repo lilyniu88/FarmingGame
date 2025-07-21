@@ -408,11 +408,10 @@ script = ExtResource("1_6avc5")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 position = Vector2(0, -8)
+scale = Vector2(1, 1.0082)
 sprite_frames = SubResource("SpriteFrames_d4ofe")
-animation = &"chopping_right"
+animation = &"chopping_front"
 autoplay = "idle_front"
-frame = 1
-frame_progress = 1.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, -7)
@@ -449,6 +448,7 @@ player = NodePath("../..")
 animated_sprite_2d = NodePath("../../AnimatedSprite2D")
 
 [node name="HitComponent" parent="." instance=ExtResource("10_3xnwo")]
+current_tool = 1
 
 [node name="HitComponentCollisionShape2D" type="CollisionShape2D" parent="HitComponent"]
 shape = SubResource("CircleShape2D_djydg")
